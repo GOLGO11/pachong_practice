@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/engine/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="728">
               <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -39,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="91" />
     <option name="y" value="80" />
     <option name="width" value="1750" />
@@ -142,7 +142,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="64" width="1400" height="784" extended-state="0" />
+    <frame x="73" y="64" width="1400" height="784" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -167,7 +167,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/engine/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="728">
           <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
